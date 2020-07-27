@@ -1,3 +1,5 @@
+//https://www.acmicpc.net/problem/11729
+
 #include <stdio.h>
 
 int N = 0;
